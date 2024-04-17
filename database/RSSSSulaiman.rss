@@ -1,0 +1,63 @@
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Mis Podcasts</title>
+        <link>https://www.ejemplo.com/podcasts</link>
+        <description>Una selección de podcasts interesantes.</description>
+        <language>es</language>
+        <pubDate>Mon, 17 Apr 2024 00:00:00 GMT</pubDate>
+        <lastBuildDate>Mon, 17 Apr 2024 00:00:00 GMT</lastBuildDate>
+
+        <!-- Listado de episodios -->
+        <item>
+            <title>La Tecnología</title>
+            <link>https://www.ejemplo.com/podcast/tecnologia</link>
+             <descripcion>En este podcast, nos sumergimos en las últimas tendencias tecnológicas y los gadgets más innovadores del momento. Desde inteligencia artificial hasta dispositivos portátiles y avances en la nube, exploramos cómo la tecnología está transformando nuestra vida diaria y el futuro que nos espera en un mundo cada vez más digitalizado.</descripcion>
+            <language>es</language>
+            <pubDate>Fri, 15 Apr 2024 00:00:00 GMT</pubDate>
+            <enclosure url="URL_DEL_AUDIO" length="TAMAÑO_EN_BYTES" type="audio/mpeg" />
+        </item>
+
+        <item>
+            <title>El Cine y Entretenimiento</title>
+            <link>https://www.ejemplo.com/podcast/cine-entretenimiento</link>
+            <descripcion>Descubre lo mejor del mundo del cine y las series de televisión en este apasionante podcast. Desde críticas de estrenos hasta entrevistas con directores y actores destacados, te mantenemos al día con todo lo que necesitas saber sobre tus películas y programas favoritos, así como las tendencias más destacadas del entretenimiento actual.</descripcion>
+            <language>es</language>
+            <pubDate>Thu, 14 Apr 2024 00:00:00 GMT</pubDate>
+            <enclosure url="URL_DEL_AUDIO" length="TAMAÑO_EN_BYTES" type="audio/mpeg" />
+            <autor></autor>
+        </item>
+
+        <item>
+            <title>Los Deportes</title>
+            <link>https://www.ejemplo.com/podcast/deportes</link>
+                  <descripcion>Sumérgete en el emocionante mundo del deporte con noticias de última hora, análisis profundos y debates apasionados sobre los eventos más relevantes en el mundo deportivo. Desde fútbol y baloncesto hasta tenis y eSports, exploramos todo lo relacionado con los deportes que apasionan a millones en todo el mundo.</descripcion>
+            <language>es</language>
+            <pubDate>Wed, 13 Apr 2024 00:00:00 GMT</pubDate>
+            <enclosure url="URL_DEL_AUDIO" length="TAMAÑO_EN_BYTES" type="audio/mpeg" />
+            <autor></autor>
+        </item>
+
+        <item>
+            <title>La Salud y Bienestar</title>
+            <link>https://www.ejemplo.com/podcast/salud-bienestar</link>
+            <descripcion>En busca de una vida más saludable y equilibrada, este podcast ofrece consejos prácticos respaldados por expertos en medicina y bienestar. Desde técnicas de mindfulness hasta recomendaciones nutricionales, exploramos cómo podemos mejorar nuestra salud física y mental en un mundo cada vez más ocupado.</descripcion>
+            <language>es</language>
+            <pubDate>Tue, 12 Apr 2024 00:00:00 GMT</pubDate>
+            <enclosure url="URL_DEL_AUDIO" length="TAMAÑO_EN_BYTES" type="audio/mpeg" />
+            <autor></autor>
+        </item>
+
+        <item>
+            <title>Islam y Pensamiento</title>
+            <link>https://www.ejemplo.com/podcast/islam-pensamiento</link>
+            <descripcion>En este espacio reflexivo, exploramos los principios fundamentales del Islam y cómo estos afectan nuestra forma de pensar y vivir. Desde discusiones sobre espiritualidad hasta debates sobre la personalidad y pensamiento islámico contemporánea, buscamos comprender cómo el pensamiento lleva a una conexión más profunda con el Creador según la perspectiva islámica.</descripcion>
+            <language>es</language>
+            <pubDate>Sun, 10 Apr 2024 00:00:00 GMT</pubDate>
+            <enclosure url="URL_DEL_AUDIO" length="TAMAÑO_EN_BYTES" type="audio/mpeg" />
+            <autor></autor>
+        </item>
+
+    </channel>
+</rss>
